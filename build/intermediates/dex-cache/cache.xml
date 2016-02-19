@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\pruebasAndroid\TwoLineGraph\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\pruebasAndroid\TwoLineGraph\app\build\intermediates\pre-dexed\debug\classes-e3c133e42f4e79d2834ea7a92957c1a618db66ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\tavosh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\pruebasAndroid\TwoLineGraph\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-82cc3613327ff605e91b8f38b0ef1b1e65831fc9.jar" />
+    </item>
+    <item
+        jar="C:\pruebasAndroid\TwoLineGraph\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\pruebasAndroid\TwoLineGraph\app\build\intermediates\pre-dexed\debug\classes-bd61801152ddc3cfd87d533626dd4b28bdfc222d.jar" />
+    </item>
+    <item
+        jar="C:\pruebasAndroid\TwoLineGraph\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\pruebasAndroid\TwoLineGraph\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-8ef84a99a3c98a856e1e07974ba081218fe092e5.jar" />
+    </item>
+    <item
+        jar="C:\pruebasAndroid\TwoLineGraph\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\pruebasAndroid\TwoLineGraph\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-30e90ea46e0aafc88dc08f971de6934cf376af06.jar" />
+    </item>
+
+</items>
